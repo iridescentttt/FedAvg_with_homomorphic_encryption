@@ -1,4 +1,5 @@
 # FedAvg with homomorphic encryption
+运行本项目需要先下载mnist数据集.
 
 项目架构
 
